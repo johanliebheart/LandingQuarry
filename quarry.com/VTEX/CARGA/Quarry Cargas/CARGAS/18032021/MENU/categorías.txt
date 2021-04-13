@@ -1,0 +1,13 @@
+OUTLET 460
+
+DAMA 458
+-	Playeras y Blusas 461
+-	Sudaderas y Sueter 462
+-	Chamarras 463
+-	Todos los productos 458
+
+CABALLERO 459
+-	Playeras y Camisas 464
+-	Sudaderas y Sueter 465
+-	Chamarras 466
+-	Todos los productos 459
